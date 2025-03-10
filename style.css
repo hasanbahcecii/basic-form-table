@@ -19,7 +19,9 @@ header
     padding: 30px;
     border-bottom: 3px solid #666;
 }
-
+nav{
+    font-size: 18px;
+}
 h2
 {
     border-bottom: 3px solid #666;
